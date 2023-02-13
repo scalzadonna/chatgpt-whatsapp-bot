@@ -1,3 +1,4 @@
+```
 cp .env-local .env
 edit and enter OPENAI keys
 then
@@ -7,3 +8,4 @@ node index.js
 receive any question using the # char
 get response from ChatGPT
 voila!
+```
